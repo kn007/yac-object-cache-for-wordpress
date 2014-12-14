@@ -1,6 +1,6 @@
 yac-object-cache-for-wordpress
 ==========================
-It still have some problem--too high load avg., slower than Memcached with unix socket(too much time for waiting to respond).
+It still have some problem--too high load avg., slower than Memcached with unix socket(too much time for waiting to respond when high concurrent).
 
 
 Requirement
